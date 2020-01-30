@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lit-analyzer": "^1.1.9",
-    "lit-element": "^2.2.1",
-    "typescript": "^3.7.5"
+    "lit-element": "^2.2.1"
   },
   "devDependencies": {
     "ts-lit-plugin": "^1.1.9"
